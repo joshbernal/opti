@@ -1,0 +1,14 @@
+{
+  "cepci": {
+    "program_spots_available": "cepci",
+    "faq": "cepci faq"
+  },
+  "sc": {
+    "program_spots_available": "sc",
+    "faq": "sc faq"
+  },
+  "fortis": {
+    "program_spots_available": "fortis",
+    "faq": "fortis faq"
+  }
+}
